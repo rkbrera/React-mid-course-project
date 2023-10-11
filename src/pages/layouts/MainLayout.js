@@ -8,7 +8,7 @@ export default function MainLayout() {
     <div className="MainLayout">
       <Navbar />
       <div className="d-flex flex-column min-vh-100 py-4 bg-primary bg-gradient">
-        <Outlet />
+        <Outlet />npm 
       </div>
       <Footer />
     </div>
